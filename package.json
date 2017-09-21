@@ -1,0 +1,7 @@
+{
+  "name": "rocket-chat-server",
+  "scripts": {
+    "start": "node Rocket.Chat/main.js"
+  },
+  "engines": { "node": "^4" }
+}
